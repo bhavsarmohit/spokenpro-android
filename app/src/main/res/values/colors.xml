@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#FF6200EE</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="purple">#752F7A</color>
+    
+    <color name="purple_button">#752F7A</color>
+    <color name="purple_textview">#722E77</color>
+    <color name="purple_textview_dark">#68206E</color>
+    <color name="purple_edittext">#812488</color>
+
+    <!--    vector icons-->
+    <color name="purple_icon">#DA813087</color>
+
+    <!--    Background color-->
+    <color name="background_color">#D5FEF8FF</color>
+    <color name="background_color_card">#E6DFE7</color>
+
+<!--    border color-->
+    <color name="border_color">#E4E4E4</color>
+</resources>

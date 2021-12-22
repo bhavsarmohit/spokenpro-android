@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Internship/SpokenPro/Code/SpokenPro/app/src/main/res/layout-large/activity_main.xml" value="0.18" />
+        <entry key="..\:/Android/Internship/SpokenPro/Code/SpokenPro/app/src/main/res/layout-normal/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/Internship/SpokenPro/Code/SpokenPro/app/src/main/res/layout-small/activity_main.xml" value="0.9" />
+        <entry key="..\:/Android/Internship/SpokenPro/Code/SpokenPro/app/src/main/res/layout-xlarge/activity_main.xml" value="0.168359375" />
+        <entry key="..\:/Android/Internship/SpokenPro/Code/SpokenPro/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android/Internship/SpokenPro/SpokenPro/SpokenPro/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/drawable/anim_fade.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/drawable/border.xml" value="0.24027777777777778" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/drawable/button_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/drawable/card_bg.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/drawable/ic_call.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/drawable/ic_person.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/activity_choose_yourself.xml" value="0.264" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/activity_dashboard.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/activity_forgot_password.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/SpokenPro/app/src/main/res/layout/test.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
